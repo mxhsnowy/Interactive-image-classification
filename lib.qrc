@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>icons8-back.png</file>
+        <file>icons8-back-50.png</file>
+        <file>icons8-forward.png</file>
+        <file>icons8-forward2.png</file>
+        <file>IGH Logo Vietnamese.png</file>
+        <file>viettellogo.png</file>
+        <file>splash screen 3.PNG</file>
+        <file>icons8-play-64.png</file>
+        <file>icons8-user-manual-48.png</file>
+        <file>icons8-info-48.png</file>
+        <file>icons8-save-48.png</file>
+        <file>icons8-opened-folder-48.png</file>
+    </qresource>
+</RCC>
